@@ -24,7 +24,7 @@ order#:		?
 
 url:		https://www.123-3d.nl/123-3D-Spanrol-gladde-pulley-hoge-resolutie-9-mm-riem-5-mm-as-i2310-t14815.html
 omschrijving:	Spanrol | gladde pulley | hoge resolutie | 9 mm riem | 5 mm as
-aantal:		1
+aantal:		5
 prijs:		5,50
 order#:		?
 
