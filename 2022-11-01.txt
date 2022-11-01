@@ -1,0 +1,53 @@
+url:		https://www.123-3d.nl/123-3D-GT2-Pulley-hoge-resolutie-9-mm-riem-60-tanden-8-mm-as-i2573-t14820.html
+omschrijving:	GT2 Pulley hoge resolutie | 9 mm riem | 60 tanden | 8 mm as
+aantal:		1
+prijs:		10.00
+order#:		?
+
+url:		https://www.123-3d.nl/123-3D-GT2-Pulley-hoge-resolutie-9-mm-riem-60-tanden-6-35-mm-as-i2565-t14818.html
+omschrijving:	GT2 Pulley hoge resolutie | 9 mm riem | 60 tanden | 6,35 mm as
+aantal:		1
+prijs:		10.00
+order#:		?
+
+url:		https://www.123-3d.nl/SuperLube-Super-Lube-i1363-t14803.html
+omschrijving:	Super Lube
+aantal:		1
+prijs:		7,50
+order#:		?
+
+url:		https://www.123-3d.nl/123-3D-NEMA23-stappenmotor-1-8-graden-per-stap-30-59-kg-cm-SMNM23S18KG31-SMNM23S18KG31-i2466-t14807.html
+omschrijving:	NEMA23 stappenmotor | 1,8 graden per stap | 30,59 kg/cm 
+aantal:		1
+prijs		€52.00
+order#:		?
+
+url:		https://www.123-3d.nl/123-3D-Spanrol-gladde-pulley-hoge-resolutie-9-mm-riem-5-mm-as-i2310-t14815.html
+omschrijving:	Spanrol | gladde pulley | hoge resolutie | 9 mm riem | 5 mm as
+aantal:		1
+prijs:		5,50
+order#:		?
+
+url:		https://www.123-3d.nl/123-3D-GT2-timing-belt-9-mm-5-meter-i6551-t15106.html
+omschrijving:	GT2 timing belt 9 mm (5 meter)
+aantal		1
+prijs:		€ 29,00 
+order#:		?
+
+url:		https://www.123-3d.nl/123-3D-Wiel-nylon-21-5-mm-tbv-aluminium-profiel-1515-i2223-t13131.html
+omschrijving:	Wiel nylon 21,5 mm tbv aluminium profiel 1515 
+aantal:		8
+prijs:		2.75
+order#:		?
+
+url:		https://www.digikey.nl/nl/products/detail/trinamic-motion-control-gmbh/TMC5160-BOB/8440397
+omschrijving:	TMC5160-BOB
+aantal:		2
+prijs:		€ 22,30
+order#:		1460-1250-ND
+
+url:		https://www.conrad.nl/nl/p/renata-700759-knoopcelhouder-1x-cr2032-horizontaal-doorsteekmontage-tht-l-x-b-x-h-24-x-23-x-6-mm-650588.html
+omschrijving:	Renata 700759 Knoopcelhouder 1x CR2032 Horizontaal
+aantal:		10
+prijs:		1.79
+order#:		ean 2050000436109
