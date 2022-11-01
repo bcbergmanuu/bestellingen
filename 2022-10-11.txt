@@ -1,0 +1,20 @@
+url:		https://www.alucomp.nl/167s101045045e-eco-slide-pg-45-45e
+omschrijving:	Eco-Slide PG 45 - 45E
+art#: 		1.67.S101.045045E
+prijs:		98,70
+aantal:		1
+
+url:		https://www.amazon.nl/TUZUK-Distributieriem-Breedte-Spanner-Inbussleutel/dp/B08SWTSG2K
+omschrijving:	TUZUK 5M GT2 Distributieriem 6mm 
+art#:		8712962605293
+prijs:		18.99
+aantal:		1
+
+url:		https://www.tinytronics.nl/shop/en/tools-and-mounting/installation-and-mounting-material/brackets/bracket-for-stepper-motor-57mm-nema23
+omschrijving:	Bracket for Stepper Motor 
+art#:		001863
+prijs:		3.00
+aantal:		1
+
+
+

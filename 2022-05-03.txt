@@ -1,0 +1,12 @@
+website: https://nl.farnell.com/nordic-semiconductor/nrf52840-dk/dev-kit-bluetooth-low-energy-soc/dp/2842321?st=nrf52840
+description:	 nRF52840 DK
+prijs:	44.60
+aantal:	1
+order#:	2842321
+
+website:	https://www.conrad.nl/nl/p/micro-usb-inbouwbus-2-0-bus-inbouw-micro-usb-01-micro-usb-bus-naar-micro-usb-stekker-1365796-tru-components-1-stuk-s-1365796.html
+aantal:	5
+order#:	1365796 - 62
+prijs:	14.87
+
+

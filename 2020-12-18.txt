@@ -1,0 +1,42 @@
+
+website:	https://www.alucomp.nl/11103003043sp-aluminium-profiel
+artikelnummer:	1.11.030030.43SP  
+omschijving:	Profiel 30x30 4F SP (zwaar) 
+prijs:		31,78
+aantal:	1
+opmerking: 
+   3 meter verzaagd in:
+	-2x {59.4cm, 2x verstek 45graden tegenovergesteld, 2x boren tbv verbinder (1.21.3FK1 en 1.21.3FK4) }
+	-2x {39.0cm, 2x boren tbv verbinder (1.21.3F0)}
+	<voor vragen 06-13448361 b.c.bergman@uu.nl>
+	
+website:	https://www.alucomp.nl/1213f0
+artikelnummer: 1.21.3F0 
+omschijving:	Standaard-universeel, 30-F Ø12 
+prijs:		2.30
+aantal:	2	
+
+website: 	https://www.alucomp.nl/1324fm8
+artikelnummer:	1.32.4FM8
+omschijving: 	Schuifmoer inkantelbaar, FM8
+prijs:		€1,13
+aantal:	10
+	
+website: https://www.conrad.nl/p/zeskantmoer-m8-100-stuks-fischer-mu-m-8-79734-479960		
+omschijving: Zeskantmoer M8 100 stuk(s) Fischer MU M 8 79734
+Artikelnummer: 479960
+prijs: € 8,95 incl. btw
+aantal: 1
+
+website: https://www.conrad.nl/p/reely-10593-m8-draadeind-m8-500-mm-staal-1-stuks-237221
+omschijving: Reely 10593 M8 Draadeind M8 500 mm Staal 
+Artikelnummer: 237221
+prijs: € 5,14 incl. btw
+aantal: 2
+
+website: https://www.conrad.nl/p/spatbordschijf-84-mm-30-mm-staal-verzinkt-100-stuks-swg-1204389
+omschijving: Spatbordschijf 8.4 mm 30 mm Staal Verzinkt 100 stuk(s) SWG
+Artikelnummer: 1204389
+prijs: € 9,26 incl. btw
+aantal: 1
+

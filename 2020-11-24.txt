@@ -1,0 +1,72 @@
+website:	https://nl.farnell.com/multicomp-pro/mp000370/battery-holder-aa-wire-lead/dp/3126610
+artikelnummer:	3126610
+omschijving:	Battery Box, Wired, 4 x AA
+prijs:		1.98
+aantal:	4
+
+website:	https://nl.farnell.com/multicomp-pro/mp000329/battery-holder-aa-wire-lead/dp/3126565
+artikelnummer:	3126565 
+omschijving:	Battery Holder, Wired, 2 x AA
+prijs:		0.71
+aantal:	4
+
+website: 	https://nl.farnell.com/microchip/attiny85-20pu/mcu-8bit-attiny-20mhz-dip-8/dp/1455162
+artikelnummer:	1455162 	
+omschrijving:	ATTINY85-20PU
+prijs:		1.05
+aantal:	10
+
+website:	https://www.alucomp.nl/11103003043sp-aluminium-profiel
+artikelnummer:	1.11.030030.43SP  
+omschijving:	Profiel 30x30 4F SP (zwaar) 
+prijs:		63,48
+aantal:	1
+notitie:	6 meter, verzaagd in 
+			- 2x {1.50m een uiteinde boren t.b.v verbinder, 1.21.3F0 }
+			- 2x {1m}
+			- 2x {34cm, beide uitenden boren t.b.v verbinder, 1.21.3F0}
+			
+website:	https://www.alucomp.nl/11103003043sp-aluminium-profiel
+artikelnummer:	1.11.030030.43SP  
+omschijving:	Profiel 30x30 4F SP (zwaar) 
+prijs:		24,78
+aantal:	1
+notitie:	1 meter, verzaagd in 
+			-2x { 48.08cm, 2x verstek 45 graden, als parralellogram, beide uiteinde boren tbv verbinder (1.21.3FK1 en 1.21.3FK4) }
+
+
+website:	https://www.alucomp.nl/1213f0
+artikelnummer: 1.21.3F0 
+omschijving	Standaard-universeel, 30-F Ø12 
+prijs:		2.30
+aantal:	6
+
+website:	https://www.alucomp.nl/1213fk1
+artikelnummer: 1.21.3FK1
+omschijving	Schuin verbinding, 30-F Ø12 
+prijs:		5,01 
+aantal:	2
+
+
+website:	https://www.alucomp.nl/1213fk4
+artikelnummer:	1.21.3FK4 
+omschijving	Andreaskruis universeel 90º, 30-F Ø12 
+prijs:		4,56
+aantal:	2
+
+
+website:	https://www.alucomp.nl/1324fm6-2
+artikelnummer: 1.32.4FM6 
+omschijving:	Schuifmoer inkantelbaar, FM6 
+prijs:		1.13
+aantal:	10
+
+
+website:	https://www.alucomp.nl/14521050
+artikelnummer: 1.45.21050
+omschijving:	Zwenkwiel met boutgat, Ø50 
+prijs:		6,80 
+aantal:	4
+
+	
+

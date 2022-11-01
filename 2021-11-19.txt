@@ -1,0 +1,12 @@
+website: 	https://www.conrad.nl/p/adapter-bus-inbouw-usb-bus-type-c-usb-stekker-type-b-cp30611-cliff-inhoud-1-stuks-2354830
+omschrijving:	Adapter, Bus, inbouw USB-bus type C
+prijst:	9,91
+aantal:	5
+artiekel#:	2354830
+
+website:	https://www.conrad.nl/p/toolcraft-1066573-borgmoeren-m12-din-982-rvs-a4-50-stuks-1066573
+omschrijving:	TOOLCRAFT 1066573 Borgmoeren M12 DIN 982 RVS 
+prijs:		21,48
+artiekel#:	1066573
+aantal:	1
+

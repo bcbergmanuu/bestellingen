@@ -1,0 +1,31 @@
+url:		https://nl.farnell.com/littelfuse/2920l030dr/polyfuse-ptc-2920-0-3a/dp/1822222?st=2920l030
+omschrijving:	Resettable Fuse, PPTC, 2920 (7351 Metric), POLYFUSE 2920L, 60 VDC, 300 mA, 600 mA, 3 s
+aantal:		15
+prijs:		0.5
+order#:		1822222 
+
+url:		https://www.conrad.nl/nl/p/hammond-electronics-hammond-electronics-1455b802-profielbehuizing-80-x-71-7-x-19-aluminium-aluminium-1-stuk-s-534410.html#productDownloads
+omschrijving:	Profielbehuizing 80 x 71.7 x 19
+aantal:		3
+prijs:		8.67
+order#		534410 - 62
+
+url:	https://www.kiwi-electronics.com/nl/panel-mount-usb-b-naar-micro-b-kabel-901
+omschrijving:	Panel Mount USB B naar Micro-B kabel
+aantal:		5
+prijs:		5.95
+order#		KW-1497
+
+url:		https://www.kiwi-electronics.com/nl/raspberry-pi-pico-10494
+omschrijving:	Raspberry Pi Pico
+aantal:		4
+prijs:		4.50
+order#		KW-2772
+
+url:	https://www.bol.com/nl/nl/p/tv-standaard-tv-statief-voet-verrijdbaar-hoogte-instelbaar-116-cm-tot-151-cm/9300000003219975/
+omschrijving:	TV standaard
+aantal:		1
+prijs:		117.50
+order#(EAN)	8719128191324
+
+

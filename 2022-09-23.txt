@@ -1,0 +1,6 @@
+url:		https://nl.rs-online.com/web/p/development-board-enclosures/1222283
+omschrijving:	MikroElektronika Case for MIKROE-2026 Hexiwear, Black
+art#:		122-2283
+aantal:		1
+prijs:		17,06
+

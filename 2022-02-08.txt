@@ -1,0 +1,7 @@
+website:	https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/others/seeed-studio-seeeduino-xiao-cortex-m0-samd21
+omschrijving:	XIAO - Cortex-M0+ - SAMD21
+artikelnr:	SEEED-102010388
+amount:	6
+prijs:		7.50
+
+

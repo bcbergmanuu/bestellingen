@@ -1,0 +1,7 @@
+website:	https://www.digikey.nl/en/products/detail/analog-devices-inc/EVAL-AD7124-8-PMDZ/13152102
+order#:		505-EVAL-AD7124-8-PMDZ-ND
+aantal:		1
+omschrijving:	AD7124-8 PMOD BOARD
+prijs:		€38.80470
+
+

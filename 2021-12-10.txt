@@ -1,0 +1,5 @@
+website:		https://www.tinytronics.nl/shop/nl/power/spanningsconverters/boost-(step-up)-converters/dc-dc-verstelbare-step-up-boost-converter-xl6009-4a
+omschrijving:		DC-DC Verstelbare Step-up Boost Converter XL6009 4A
+Artiekelnummer:	000074	
+prijs:			3.50
+aantal:		2

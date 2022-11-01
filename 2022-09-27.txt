@@ -1,0 +1,15 @@
+
+url:		https://mijn-gadgets.nl/tools-industrial-and-scientific/mechanical-parts/linear-motion/lead-screw/machifit-t8-400-mm-leischroefset-met-moer-behuizing-beugel-gemonteerd-kogellager-en-askopp
+omschrijving:	leischroefset
+prijs:		26.25
+aantal:		1
+art#:		1252942
+
+url:		https://nl.farnell.com/sanyo-denki-sanmotion/103h7123-0440/stepper-motor-1-8deg-2-phase-0/dp/9948279
+omschrijving:	103H7123-0440
+prijs:		74.96
+aantal:		1
+art#:		9948279
+
+
+

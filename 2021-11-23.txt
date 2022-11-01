@@ -1,0 +1,12 @@
+website:	https://www.kiwi-electronics.nl/nl/sparkfun-load-cell-amplifier-hx711-2929
+omschrijving:	Load Cell Amplifier - HX711
+aantal:	4
+prijs:		11.95
+artiekel#	SF-SEN-13879
+
+website:	https://www.kiwi-electronics.nl/nl/load-cell-s-type-200kg-10033
+omschrijving:	Load Cell S-Type - 200kg
+aantal:	4
+prijs:		59.95
+artiekel#	SF-SEN-14282
+

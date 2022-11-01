@@ -1,0 +1,15 @@
+url:	https://nl.mouser.com/ProductDetail/Mikroe/MIKROE-2094?qs=dTJS0cRn7ohgo1fSo%2FdUAw%3D%3D
+beschrijving:	MIKROE-2094
+prijs:	39
+aantal:	1
+order#:	 932-MIKROE-2094 
+
+url:	https://nl.mouser.com/ProductDetail/Mikroe/MIKROE-2026?qs=sGAEpiMZZMuqBwn8WqcFUmzejc0Xcj2DSC4iaYPdRvRuZWb2FSX%2FGw%3D%3D
+beschrijving:	MIKROE-2026
+prijs:	129
+aantal:	1
+order#:	 932-MIKROE-2026 
+
+
+
+

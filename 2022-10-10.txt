@@ -1,0 +1,35 @@
+url:	https://www.omega.nl/pptst/PX190.html
+art#:	PX191-150GV5 
+omschrijving:	Compact Pressure Transmitter
+aantal:	1
+prijs:	126,49
+
+url: 	https://www.almotion.nl
+art#:	DSNU-20-10-PPS-A (1908297)
+omschrijving: Rondcilinders Festo serie DSNU
+aantal:	2
+prijs:	70,39 
+
+url:	https://www.almotion.nl
+art#:	DSNU-20-80-PPS-A (559274)
+omschrijving:	Rondcilinders Festo 
+aantal:	1
+prijs:	72,47 
+
+url:	https://www.almotion.nl
+art#:	KIKI-4-1/8
+omschrijving:	Knie inschroefkoppeling
+aantal:	6
+prijs:	2.29
+
+url:	https://www.almotion.nl
+art#:	1SC
+omschrijving:	 Geluiddemper met buitendraad 1/8
+aantal:	4
+prijs:	1.57
+
+url:	https://www.almotion.nl/
+art#:	TKI-04C
+omschrijving:TKI compact: T-insteekkoppeling compact 3x 4 mm.
+aantal:	3
+prijs:	3.26

@@ -1,0 +1,5 @@
+website: 	https://nl.mouser.com/ProductDetail/analog-devices-inc/eval-ad7124-8-pmdz/
+prijs:		31.28 euro
+aantal:	1
+omschrijving:	Data Conversion IC Development Tools 8-Ch, 24-Bit Sigma-Delta ADC 
+ordernummer:	EVAL-AD7124-8-PMDZ

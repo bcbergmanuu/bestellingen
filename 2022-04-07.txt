@@ -1,0 +1,54 @@
+website:	https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/arduino-compatible/pro-micro-3.3v-8mhz
+omschrijving:	Pro Micro 3.3V 8MHz
+ordernummer:	000488
+aantal:	4
+prijs:		9.75
+
+website:	https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/teensy/teensy-4.0
+omschrijving:	Teensy 4.0
+ordernummer:	002364
+aantal:	4
+prijs:		20.50
+
+website:	https://nl.farnell.com/licefa/smd-box-n1-2-2-6-6/box-smd-16x12x15mm-b-l-red/dp/9583793
+omschrijving:	SMD Box, General Purpose Storage, 15x16mm
+ordernummer:	9583793
+aantal:	15
+prijs:		1.08
+
+website:	https://nl.farnell.com/takachi/tw5-3-7b/multipurpose-enclosure-abs-black/dp/2444676 5stuks
+omschrijving:	Plastic Enclosure
+ordernummer:	2444676 
+aantal:	6
+prijs:		5.28
+
+website:	https://nl.farnell.com/fischer-elektronik/bly1-50z/connector-header-tht-2mm-50way/dp/9728937
+omschrijving: 	PCB Receptacle, Wire-to-Board, 
+artiekel#	BLY1.50Z
+aantal:	1
+prijs:		7.01
+
+website:	https://nl.farnell.com/vishay/vj0805a103gxjtw1bc/cap-0-01-f-16v-2-c0g-np0-0805/dp/2896474
+omschrijving:	SMD Multilayer Ceramic Capacitor, 10000 pF
+ordernummer:	2896474 
+aantal:	20
+prijs:		0.324
+
+website:	https://nl.farnell.com/kemet/c1206c104j3gacauto/cap-0-1-f-25v-5-c0g-np0-1206/dp/2070497
+omschrijving:	SMD Multilayer Ceramic Capacitor, AEC-Q200, 0.1 µF,
+ordernummer:	2070497 
+aantal:	20
+prijs:		0.624
+
+website:	https://nl.farnell.com/nordic-semiconductor/nrf52840-dongle/bluetooth-module-v5-2mbps/dp/2902521#anchorTechnicalDOCS
+omschrijving:	USB Dongle, Bluetooth 5.0, NRF52
+ordernummer:	2902521
+aantal:	4
+prijs:		10.40
+
+website:	https://nl.farnell.com/maxim-integrated-products/max6037aauk25-t/voltage-ref-series-2-5v-sot23/dp/2511365?st=voltage+ref
+omschrijving:	Voltage Reference, Series, Fixed, ±2.5V ref, ± 6ppm/°C, SOT-23-5
+ordernummer:	2511365 
+aantal:	3
+prijs:		3.52
+

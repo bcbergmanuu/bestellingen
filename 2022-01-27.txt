@@ -1,0 +1,31 @@
+website:	https://nl.rs-online.com/web/p/motion-control-sensors/1814479
+omschrijving:	Bourns Encoder 24 ppr, Solid Shaft, PEC16-4220F-N0024
+artiekelnr:	181-4479
+prijs:		1.365
+aantal:	3
+
+website:	https://nl.rs-online.com/web/p/potentiometer-knobs/7777306
+omschrijving:	RS PRO 38.6mm Grey Potentiometer Knob for 6mm Shaft Screw Fix
+artiekelnr:	777-7306
+prijs:		7.83
+aantal:	1
+
+website:	https://nl.farnell.com/multicomp/mcps23b-5/pushbutton-switch-spst-1a-250v/dp/2913873
+omschrijving:	Pushbutton Switch, 12 mm, SPST, (On)-Off, Square Raised, Yellow
+artiekelnr:	MCPS23B-5
+prijs:		1.01
+aantal:	15
+
+website:	https://nl.farnell.com/multicomp/mcps23a-3/pushbutton-switch-spst-1a-250v/dp/2913874
+omschrijving:	Pushbutton Switch, 12 mm, SPST, On-Off, Square Raised, Red
+artiekelnr:	MCPS23A-3
+prijs:		1.04
+aantal:	3
+
+website:	https://nl.farnell.com/multicomp/mcps23a-6/pushbutton-switch-spst-1a-250v/dp/2913869
+omschrijving:	Pushbutton Switch, 12 mm, SPST, On-Off, Square Raised, Green
+artiekelnr:	MCPS23A-6
+prijs:		1.04
+aantal:	3
+
+

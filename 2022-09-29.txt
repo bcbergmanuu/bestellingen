@@ -1,0 +1,11 @@
+url:	https://www.digikey.nl/en/products/detail/analog-devices-inc/EVAL-AD7124-8-PMDZ/13152102
+art#:	505-EVAL-AD7124-8-PMDZ-ND
+prijs:	37.14
+aantal:	3
+
+url:	https://www.conrad.nl/nl/p/hammond-electronics-1455tal-10-eindplaat-l-x-b-x-h-1-5-x-160-x-51-5-mm-aluminium-natuur-10-stuk-s-461930.html	
+EAN:    0623980515007
+prijs:	22.72
+aantal:	1
+
+

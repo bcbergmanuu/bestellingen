@@ -1,0 +1,13 @@
+url:	https://www.pneuparts.com/en/item/CC0610WT
+omschrijving:	Cartridge cylinder, single acting, diameter 6, stroke 10, without thread
+prijs:	17.24
+aantal:	2
+order#:	CC0610WT
+
+url:	https://www.pneuparts.com/en/item/CLC035070
+omschrijving:	Pneumatic clamping cylinder, 35 mm, stroke 70 (g1/8)
+prijs:	41.45
+aantal:	1
+order#:	CLC035070
+
+

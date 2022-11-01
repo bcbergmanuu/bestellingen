@@ -1,0 +1,72 @@
+url:	https://www.conrad.nl/nl/p/hammond-electronics-hammond-electronics-1455j1601-profielbehuizing-162-x-78-x-27-aluminium-aluminium-1-stuk-s-442947.html
+omschrijving:	Hammond Electronics Hammond Electronics 1455J1601 Profielbehuizing 162 x 78 x 27 Aluminium Aluminium 1 stuk(s) 
+EAN:	0623980764535
+aantal:	4
+prijs:	14.45
+
+url:	https://www.conrad.nl/nl/p/staeubli-xkk-1001-veiligheids-krokodilklem-steekaansluiting-4-mm-cat-ii-1000-v-zwart-121071.html
+omschrijving:	Stäubli XKK-1001 
+EAN:    4016138189193
+aantal:	6
+prijs	4.53
+
+url: 	https://www.almotion.nl
+art#:	DSNU-16-10-PPS-A (1908274)
+omschrijving: Rondcilinders Festo serie DSNU
+aantal:	1
+prijs:	64,24
+
+url:	https://www.almotion.nl
+art#:	DSNU-20-80-PPS-A (559274)
+omschrijving:	Rondcilinders Festo 
+aantal:	1
+prijs:	72,47 
+
+url:	https://www.almotion.nl
+art#:	MAN-40-2,5-10
+omschrijving:	Manometer
+aantal:	1
+prijs:	12,75 
+
+url:	https://www.almotion.nl
+art#:	RIKI-04-M5C
+omschrijving:	inschroefkoppeling
+aantal:	1
+prijs:	2.29
+
+url:	https://www.almotion.nl
+art#:	TKI-04C
+omschrijving:	T-insteekkoppeling
+aantal:	2
+prijs:	3.94
+
+url:	https://www.almotion.nl
+art#:	PU-4x2,5ZWART
+omschrijving:	Persluchtslang PU
+aantal:	1
+prijs:	24.88
+
+url:	https://www.almotion.nl/
+art#: 	YIKI-4-M5
+omschrijving:	Y-inschroefkoppeling
+aantal:	1
+prijs:	3.05
+
+url:	https://www.almotion.nl
+art#:	KIKI-4-1/8
+omschrijving:	Knie inschroefkoppeling
+aantal:	1
+prijs:	2.29
+
+url:	https://www.omega.nl/pptst/PX190.html
+art#:	PX191-150GV5 
+omschrijving:	Compact Pressure Transmitter
+aantal:	1
+prijs:	126,49
+
+url:	https://www.almotion.nl/
+art#:	254M-1/8
+omschrijving:	Sok
+aantal:	1
+prijs:	0.82
+
