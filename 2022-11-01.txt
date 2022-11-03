@@ -46,6 +46,18 @@ aantal:		2
 prijs:		€ 22,30
 order#:		1460-1250-ND
 
+url:		https://www.digikey.nl/nl/products/detail/nordic-semiconductor-asa/NRF52840-DK/8593726?s=N4IgTCBcDaIHYCcBmBWMAOALABgCYGsQBdAXyA
+omschrijving:	NRF52840-DK
+aantal:		1
+prijs:		51.07
+order#:		1490-1072-ND
+
+url:		https://www.digikey.nl/nl/products/detail/nordic-semiconductor-asa/NRF52840-DONGLE/9491124
+omschrijving:	NRF52840-DONGLE
+aantal:		3
+prijs:		10,42
+order#:		1490-1073-ND
+
 url:		https://www.conrad.nl/nl/p/renata-700759-knoopcelhouder-1x-cr2032-horizontaal-doorsteekmontage-tht-l-x-b-x-h-24-x-23-x-6-mm-650588.html
 omschrijving:	Renata 700759 Knoopcelhouder 1x CR2032 Horizontaal
 aantal:		10
