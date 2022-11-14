@@ -1,0 +1,32 @@
+
+website:	https://www.conrad.nl/p/toolcraft-ce134783-draadeind-m12-1000-mm-staal-galvanisch-verzinkt-1-stuks-134783
+omschrijving:	TOOLCRAFT CE134783 Draadeind M12 1000 mm 
+Artikelnummer:	134783
+prijs:		6.36
+aantal:		2
+
+website:	https://www.conrad.nl/p/onderlegringen-iso-7434-staal-galvanisch-verzinkt-100-stuks-toolcraft-to-5433771-1811257
+omschrijving:	Onderlegringen ISO 7434 Staal Galvanisch verzinkt 100
+Artikelnummer: 	1811257
+prijs:		3.59
+aantal:		1
+
+website:	https://www.conrad.nl/p/swg-36812125-borgmoeren-m12-din-985-staal-verzinkt-50-stuks-2274167
+omschrijving:	SWG 36812125 Borgmoeren M12 DIN 985 Staal
+Artikelnummer:	2274167
+prijs:		25.61
+aantal:		1
+
+website:	https://www.conrad.nl/p/takachi-sn34pc-batterijhouder-4-aa-penlite-soldeerpin-l-x-b-x-h-619-x-572-x-15-mm-1886683
+omschrijving:	Takachi SN34PC Batterijhouder 
+Artikelnummer: 	1886683
+prijs:		5.03
+aantal:		5
+
+website:	https://www.conrad.nl/p/tru-components-sbh-321-3a-batterijhouder-2-aa-penlite-kabel-1672620
+omschrijving:	TRU COMPONENTS SBH-321-3A Batterijhouder
+Artikelnummer: 	1672620
+prijs:		1.08
+aantal:		5
+
+

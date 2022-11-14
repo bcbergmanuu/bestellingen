@@ -1,0 +1,36 @@
+website: 	https://www.tinytronics.nl/shop/en/sensors/body/heart-rate-sensor-and-pulse-oximeter-max30102-i2c
+omschrijving:	Heart Rate Sensor and Pulse Oximeter - MAX30102
+aantal:		3
+prijs:		5
+artiekelnummer:	MAX30102MOD
+
+
+website:	https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/with-wi-fi/esp32-wifi-and-bluetooth-board-cp2102
+omschrijving:	ESP32 WiFi and Bluetooth Board
+aantal:		4
+prijs:		10.50
+artiekelnummer:	ESP32CP2102V1
+
+website:	https://nl.farnell.com/wieland-electric/ws-005-3541/din-rail-ts15-mini/dp/177126
+omschrijving:	DIN Mounting Rail, DIN Rail Mount, DIN Rail Terminals, 500 mm, 5 mm, 15 mm, Steel
+aantal:		1
+prijs:		4.44
+artiekelnummer:	WS.005.3541
+
+website:	https://www.conrad.nl/p/vogt-verbindungstechnik-44040747-adereindhulzen-150-mm-ongeisoleerd-metaal-100-stuks-611794
+omschrijving:	Vogt Verbindungstechnik 440407.47
+aantal:		1
+prijs:		1.48
+artiekelnummer: 611794
+
+website:	https://www.conrad.nl/p/vogt-verbindungstechnik-44020647-adereindhulzen-075-mm-ongeisoleerd-metaal-100-stuks-611883
+omschrijving:	Vogt Verbindungstechnik 440206.47 Adereindhulzen 0.75 mm
+aantal		1
+prijs:		1.23
+artiekelnummer	611883
+
+website:	https://www.conrad.nl/p/vogt-verbindungstechnik-44030847-adereindhulzen-1-mm-ongeisoleerd-metaal-100-stuks-1226341
+omschrijving:	Vogt Verbindungstechnik 440308.47 Adereindhulzen 1 mm
+aantal:		1
+prijs:		1.30
+artiekelnummer: 1226341

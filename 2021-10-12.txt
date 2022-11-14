@@ -1,0 +1,15 @@
+website:	 https://www.xiaomiproducts.nl/nl/xiaomi-mi-powerbank-3-20000mah.html
+omschrijving:		Xiaomi Mi Powerbank 3 20000mAh
+prijs:		€44,95
+aantal:		4
+ordernummer:	-
+
+website:	https://www.amazon.nl/Yantan-stroomvoorzieningsmodule-opladen-enqu%C3%AAtes-detector/dp/B094HX9RVK/
+omschrijving:	Yantan USB-C PD2.0/3.0 
+prijs		€ 9.69 
+aantal		5
+ordernummer:	-
+
+
+
+
