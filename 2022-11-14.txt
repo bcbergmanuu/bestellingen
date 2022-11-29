@@ -1,0 +1,34 @@
+url:		https://www.tinytronics.nl/shop/nl/schakelaars/manuele-schakelaars/rotary-encoders/rotary-encoder-ec11-20mm
+omschrijving:	Rotary Encoder - EC11 - 20mm
+prijs:		0.75
+aantal:		5
+order#:		000469
+
+url:		https://www.tinytronics.nl/shop/nl/componenten/knoppen,-doppen-en-kapjes/potmeter-knop-zilver
+omschrijving:	Potmeter Knop Zilver
+prijs:		0.75
+aantal		5
+order#:		000125
+
+url:		https://tameson.nl/fittingen/draadfitting/verloopnippel/neusstuk/messing/fl2s-mf-b-018ng-1-8inch-npt-x-g-1-8inch-m-f-messing-verloopring-16-bar-hydrauliek-2-stuks.html
+omschrijving:	1/8'' NPT x G 1/8'' M/F Messing Verloopring 16 Bar - Hydrauliek [2 Stuks]
+prijs:		11.35 
+aantal:		1
+order#:		F2JXH-X2
+
+url:		https://tameson.nl/fittingen/draadfitting/sok/messing/fl2s-f-b-018g-h-g-1-8inch-messing-sok-16-bar-5-stuks.html
+omschrijving:	G 1/8'' Messing Sok 16 Bar [5 Stuks]
+prijs:		6.90
+aantal:		1
+order#:		F2KXP-X5
+
+
+url:		https://tameson.nl/afdichtingen-lijm-en-smeermiddelen/afdichting/afdichtingstape/tape/afdichtvezel-loctite-ptfe-50m.html
+omschrijving:	Afdichtvezel Loctite PTFE 50m
+prijs:		11.20
+aantal:		1
+order#:		S2MHS
+
+
+
+
