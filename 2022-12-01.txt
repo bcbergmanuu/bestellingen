@@ -7,14 +7,14 @@ order#:		?
 url:		https://www.almotion.nl/p/webshop/persluchtventielen/toebehoren-ventielen/spoelen-api-asa12/
 omschrijving:	Spoelen API serie ASA12
 prijs:		6.76
-aantal:		2
+aantal:		4
 artikel#:	ASA1202450
 
 url:		https://www.almotion.nl/p/webshop/persluchtventielen/elektrisch-bediend/elektrisch-bediende-ventielen-api/
 omschrijving:	Elektrisch bediende ventielen API 
-prijs:		40.34
+prijs:		82.52
 aantal:		2
-order#:		A1E130
+order#:		A1E170
 
 url:		https://www.almotion.nl/p/webshop/persluchtkoppelingen/kunststof-insteekkoppeling/insteekkoppeling-riki/
 omschrijving:	Rechte inschroefkoppeling
@@ -27,5 +27,6 @@ omschrijving:	T-insteekkoppeling
 prijs:		3.94
 aantal:		2
 order#:		TKI-04C
+
 
 
