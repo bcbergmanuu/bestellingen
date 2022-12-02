@@ -19,7 +19,7 @@ order#:		A1E170
 url:		https://www.almotion.nl/p/webshop/persluchtkoppelingen/kunststof-insteekkoppeling/insteekkoppeling-riki/
 omschrijving:	Rechte inschroefkoppeling
 prijs:		1.58
-aantal:		4
+aantal:		6
 order#:		RIKI-4-1/8
 
 url:		https://www.almotion.nl/p/webshop/persluchtkoppelingen/kunststof-insteekkoppeling/compacte-t-insteekkoppeling/
