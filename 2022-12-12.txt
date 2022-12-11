@@ -1,0 +1,37 @@
+url:		https://nl.farnell.com/vinatech/vec6r0-505qg/cap-5f-6v-super-cap-radial/dp/2663727
+omschrijving:	VEC6R0 505QG
+aantal:		12
+order#:		2663727 
+prijs:		3.95
+
+url:		https://www.tinytronics.nl/shop/nl/power/spanningsconverters/buck-boost-(step-up-down)-converters/dc-dc-verstelbare-step-up-down-buck-boost-converter-xl6009-4a
+omschrijving:	DC-DC Verstelbare Step-up-down Buck-Boost Converter 4A
+aantal:		4
+order#:		000290
+prijs:		4.00
+
+url:		https://www.eleshop.nl/siglent-sds2104x-plus-oscilloscoop.html
+omschrijving:	Siglent SDS2104X oscilloscoop
+aantal:		1
+order#		?
+prijs:		1160.39 (+199.00 +41.79 btw: logische analyser optie actie (hardware + software))
+
+url:		https://www.eleshop.nl/uni-t-utg962e-functiegenerator.html
+omschrijving:	UNI-T UTG962E functiegenerator
+aantal:		1
+order#:		?
+prijs:		175.00
+
+url:		https://www.bol.com/nl/nl/p/xiaomi-mi-portable-electric-air-compressor-1s-black/9300000071093643/
+omschrijving:	Xiaomi Mi Portable Electric Air Compressor 1S Black
+aantal:		1
+order#:		6934177749223
+prijs:		50.00
+
+url:		https://www.bol.com/nl/nl/p/dunlop-fietspomp-presta-dunlop-schrader-met-2-adaptoren-staande-pomp-62-5-cm-hoog/9200000101183894/?
+omschrijving:	Dunlop Fietspomp - Presta/ Dunlop/ Schrader - met 2 Adaptoren - Staande Pomp - 62,5 cm Hoog
+aantal:		1
+order#:		8711252102207
+prijs:		17.49
+
+
