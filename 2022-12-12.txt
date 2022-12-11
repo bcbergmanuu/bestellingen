@@ -1,15 +1,3 @@
-url:		https://nl.farnell.com/vinatech/vec6r0-505qg/cap-5f-6v-super-cap-radial/dp/2663727
-omschrijving:	VEC6R0 505QG
-aantal:		12
-order#:		2663727 
-prijs:		3.95
-
-url:		https://www.tinytronics.nl/shop/nl/power/spanningsconverters/buck-boost-(step-up-down)-converters/dc-dc-verstelbare-step-up-down-buck-boost-converter-xl6009-4a
-omschrijving:	DC-DC Verstelbare Step-up-down Buck-Boost Converter 4A
-aantal:		4
-order#:		000290
-prijs:		4.00
-
 url:		https://www.eleshop.nl/siglent-sds2104x-plus-oscilloscoop.html
 omschrijving:	Siglent SDS2104X oscilloscoop
 aantal:		1
