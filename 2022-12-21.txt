@@ -4,3 +4,14 @@ prijs:		15.67
 aantal:		2
 ordernummber:	FL2S-MF-ST-018GN
 
+url:		https://www.tinytronics.nl/shop/nl/power/spanningsconverters/buck-boost-(step-up-down)-converters/dc-dc-verstelbare-step-up-down-buck-boost-converter-xl6009-4a
+omschrijving:	DC-DC Verstelbare Step-up-down Buck-Boost Converter 4A
+aantal:		8
+order#:		000290
+prijs:		4.00
+
+url:		https://www.tinytronics.nl/shop/nl/gereedschap-en-montage/prototyping-toebehoren/experimenteer-printplaten/experimenteer-printplaat-9cm*15cm-dubbelzijdig
+omschrijving:	Experimenteer-printplaat 9cm*15cm 
+aantal:		4
+order#:		000327
+prijs:		2.50
