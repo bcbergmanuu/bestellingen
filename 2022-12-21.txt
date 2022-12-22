@@ -1,0 +1,6 @@
+url:		https://tameson.nl/fittingen/draadfitting/verloopnippel/neusstuk/rvs/fl2s-mf-st-018gn-g-1-8inch-x-1-8inch-npt-m-f-rvs-verloopring-40-bar-hydrauliek.html
+omschrijving:	G 1/8'' x 1/8'' NPT M/F RVS
+prijs:		15.67
+aantal:		2
+ordernummber:	FL2S-MF-ST-018GN
+
