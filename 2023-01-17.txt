@@ -1,0 +1,25 @@
+url:		https://www.almotion.nl/p/webshop/persluchtverzorging/compressor-tanks/compressor-tank/
+omschrijving:	1 liter Persluchtreservoirs van 0,5 liter tot en met 24 liter
+prijs:		38.77
+order#:		050001
+aantal:		1
+
+url:		https://www.almotion.nl/p/webshop/persluchtkoppelingen/kunststof-insteekkoppeling/compacte-t-insteekkoppeling/
+omschrijving:	T-insteekkoppeling
+prijs:		3.94
+aantal:		2
+order#:		TKI-04C
+
+url:		https://www.almotion.nl/p/webshop/persluchtkoppelingen/kunststof-insteekkoppeling/insteekkoppeling-riki/
+omschrijving:	Rechte inschroefkoppeling
+prijs:		1.58
+aantal:		6
+order#:		RIKI-4-1/8
+
+url:		https://www.almotion.nl/p/webshop/persluchtkoppelingen/draadfittingen/verloopnippel/
+omschrijving:	Verloopnippel
+prijs:		1.58
+order#:		253M-1/2-1/8
+aantal:		2
+
+
