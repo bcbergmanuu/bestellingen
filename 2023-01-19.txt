@@ -1,0 +1,31 @@
+url:		https://www.tinytronics.nl/shop/en/sensors/body/heart-rate-sensor-and-pulse-oximeter-max30102-i2c
+aantal:		10
+omschrijving:	Heart Rate Sensor and Pulse Oximeter
+prijs:		5.00
+order#:		003136
+
+url:		https://www.tinytronics.nl/shop/en/cables-and-connectors/connectors/audio/audio-jack-3.5mm-male-(metal)-v2
+aantal:		10
+omschrijving:	Audio Jack - 3.5mm Male (metal) V2
+prijs:		1.50
+order#:		000782
+
+url:		https://www.tinytronics.nl/shop/en/cables-and-connectors/connectors/audio/audio-jack-3.5mm-female-mount-pj-392
+aantal:		10
+omschrijving:	Audio Jack - 3.5mm Female - Mount - PJ-392
+prijs:		.6
+order#:		003513
+
+url:		https://www.tinytronics.nl/shop/en/cables-and-connectors/connectors/dc-jack/dc-jack-metal-5.5mm-female-dc-099
+aantal:		10
+omschrijving:	DC Jack Metal 5.5mm - Female - Mount - DC-099
+prijs:		.75
+order#:		001201
+
+url:		https://www.tinytronics.nl/shop/en/cables-and-connectors/connectors/dc-jack/dc-jack-plastic-5.5mm-male
+aantal:		10
+omschrijving:	DC Jack plastic 5.5mm - Male
+prijs:		.50
+order#:		000119
+
+
