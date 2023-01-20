@@ -1,5 +1,5 @@
 url:		https://www.tinytronics.nl/shop/en/sensors/body/heart-rate-sensor-and-pulse-oximeter-max30102-i2c
-aantal:		10
+aantal:		6
 omschrijving:	Heart Rate Sensor and Pulse Oximeter
 prijs:		5.00
 order#:		003136
@@ -28,4 +28,14 @@ omschrijving:	DC Jack plastic 5.5mm - Male
 prijs:		.50
 order#:		000119
 
+url:		https://www.tinytronics.nl/shop/en/communication-and-signals/wireless/antennas/2.4ghz/2.4ghz-antenna-sma-ufl
+aantal:		5
+omschrijving:	2.4GHz Antenna - SMA-uFL
+prijs:		2.5
+order#:		003515
 
+url:		https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/with-wi-fi/seeed-studio-xiao-esp32-c3
+aantal:		2
+omschrijving:	Seeed Studio XIAO - ESP32-C3
+prijs:		7.00
+order#:		004627
