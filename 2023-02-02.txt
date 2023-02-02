@@ -1,0 +1,42 @@
+url:		https://www.pneuparts.com/nl/item/CHV2P
+omschrijving:	2/2 compact handventiel met drukknop, M5
+prijs:		19.34
+artiekelnr:	CHV2P
+aantal:		2
+
+url:		https://www.pneuparts.com/nl/item/BVM18MKIAZ
+omschrijving:	Messing mini-kogelkraan Binnen-/ buitendraad, G 1/8'', PN10 
+prijs:		4.52
+artiekelnr:	BVM18MKIAZ
+aantal:		1
+
+url:		https://www.pneuparts.com/nl/group/conek-rechte-inschroefkoppeling-met-o-ring
+omschrijving:	Rechte inschroefkoppeling met O-ring M5 x 4, Conek
+artiekelnr:	PC04M5
+prijs:		0.39
+aantal:		4
+
+url:		https://www.pneuparts.com/nl/item/PGV640K
+omschrijving:	Manometer verticaal Ø 40 mm, G 1/8", 0 - 6 bar
+artiekelnr:	PGV640K
+prijs:		10.06
+aantal:		2
+
+url:		https://www.pneuparts.com/nl/group/t-stuk-buiten-binnen-binnen-pn-16
+omschrijving:	T-stuk (buiten/binnen/binnen) R 1/8''-G 1/8'', 16 bar Messing vernickeld (MSV)
+artiekelnr:	TLES18MSV
+prijs:		1.47
+aantal:		1
+
+url:		https://www.pneuparts.com/nl/group/t-stukken-met-binnendraad-tot-25-bar
+omschrijving:	T-stukken met binnendraad, G 1/8" - 16bar, Messing vernickeld (MSV)
+artikelnr:	TF18MSV
+prijs:		1.53
+aantal		2
+
+url:		https://www.pneuparts.com/nl/item/SPC184GMSV
+omschrijving:	Rechte inschroefkoppeling push-in met rechte draad G 1/8"- 4mm
+artikelnr:	SPC184GMSV
+prijs:		1.34
+aantal:		6
+
