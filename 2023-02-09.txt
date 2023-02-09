@@ -1,0 +1,18 @@
+url:		https://www.pneuparts.com/nl/item/BVM18MKIAZ
+omschrijving:	Messing mini-kogelkraan Binnen-/ buitendraad, G 1/8'', PN10 
+prijs:		4.52
+artiekelnr:	BVM18MKIAZ
+aantal:		2
+
+url:		https://www.pneuparts.com/nl/item/TN18MSV
+omschrijving:	T-stuk (buiten/buiten/buiten) PN 16, Messing vernikkeld
+prijs:		1.45
+artiekelnr:	TN18MSV
+aantal:		1
+
+url:		https://www.pneuparts.com/nl/item/X18MSV
+omschrijving:	Kruis stuk G 1/8'', 16 bar Messing vernickeld (MSV)
+prijs:		3.00
+artiekelnr:	X18MSV
+aantal		2
+
