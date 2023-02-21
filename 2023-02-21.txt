@@ -1,0 +1,11 @@
+url:		https://www.pneuparts.com/en/item/R0144FB
+omschrijving:	Pneuparts pressure regulator, G 1/4' , 0.2 - 4 bar, series 0
+order#:		R0144FB
+aantal:		1
+prijs:		36.92
+
+url:		https://www.pneuparts.com/nl/group/verloopringen-met-rechte-draad-uitwending-en-inwendig-msv-pn-16-40
+omschrijving:	Verloopringen met rechte draad Uitwending - en inwendig PN 16/40. G 1/4'' - G 1/8'', Messing vernickeld (MSV)
+order#:		RN1418MSV
+aantal:		2
+prijs:		1.00
