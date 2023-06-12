@@ -1,0 +1,47 @@
+url:		https://www.kiwi-electronics.com/en/7-segment-display-6-5quot-153mm-red-2721
+omschrijving:	7-Segment Display - 6.5" (153mm) - Red
+prijs:		24.95
+aantal:		9
+art#:		SF-COM-08530
+
+url:		https://www.elektramat.nl/eaton-voet-en-slagdrukknop-1m-1v-rood-229746/
+omschrijving:	Eaton voet- en slagdrukknop
+prijs:		66.24
+aantal:		6
+art#		401020328
+
+url:		https://www.kiwi-electronics.com/nl/tpic6b595-high-power-shift-register-574?
+omschrijving:	TPIC6B595 High Power Shift Register
+prijs:		2.95
+aantal:		9
+art#		TPIC6B595
+
+url:		https://www.kiwi-electronics.com/en/raspberry-pi-pico-10494
+omschrijving:	Raspberry Pi Pico
+prijs:		3.95
+aantal:		8
+art#		KW-2772
+
+url:		https://www.kiwi-electronics.com/en/raspberry-pi-pico-w-10938
+omschrijving:	Raspberry Pi Pico W
+prijs:		7.95
+aantal;		8
+art#:		KW-3017
+
+url:		https://www.kiwi-electronics.com/en/power-302/batteries-powerbanks-93/lithium-ion-polymer-battery-3-7v-150mah-3459
+omschrijving:	Lithium Ion Polymer Battery - 3.7v 150mAh
+prijs:		5.95
+aantal:		4
+art#:		KW-2043
+
+url:		https://www.kiwi-electronics.com/en/4-channel-5v-relay-module-1330?search=relais
+omschrijving:	4-channel 5V relay module
+prijs		5.95
+aantal		1
+art#:		KW-1613
+
+url:		https://www.kiwi-electronics.com/en/8-channel-5v-relay-module-2983
+omschrijving:	8-channel 5V relay module
+prijs:		11.95
+aantal:		1
+art#:		KW-1614
