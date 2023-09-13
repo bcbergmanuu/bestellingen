@@ -1,0 +1,31 @@
+site:	https://nl.farnell.com/neutrik/nys322g/plug-din-gold-5pin/dp/4632515
+oms:	NYS322G
+aantal:	20
+prijs:	2.67
+order#:	4632515 
+
+site:	https://nl.farnell.com/neutrik/nys325/socket-din-5pin/dp/1204611
+oms:	NYS325
+aantal:	20
+prijs:	1.38
+order#:	1204611 
+
+site:	https://nl.farnell.com/nordic-semiconductor/nrf52840-dongle/bluetooth-module-v5-2mbps/dp/2902521?st=nrf%20dongle
+oms:	NRF52840-DONGLE
+aantal:	10
+prijs:	10.08
+order#:	2902521
+
+site:	https://nl.farnell.com/hammond/1455tal-10/enclosure-1455-end-panels/dp/2764252
+oms:	1455TAL-10
+aantal:	1
+prijs:	20.16
+order#:	2764252 
+
+site:	https://nl.farnell.com/multicomp/mc0805wafe024kit/resistor-kit-0805-e24-1/dp/9333673
+oms:	MC0805WAFE024KIT
+aantal:	1
+prijs:	170.77
+order#:	9333673
+
+
