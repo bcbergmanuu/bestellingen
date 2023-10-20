@@ -1,0 +1,6 @@
+url:		https://www.eleshop.nl/de-ree-de-5000-lcr-meter.html
+omschrijving:	DER-EE DE-5000 LCR meter 100 KHz
+prijs:		219
+order#:		ELE003833
+aantal:		1
+
