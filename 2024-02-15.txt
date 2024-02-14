@@ -1,0 +1,18 @@
+url:	https://www.henkmaas.nl/en/products/single-point-load-cell-la250-d/
+descr:	LA250-D-100kg
+prodid:	19011705
+amount:	4
+price:	78
+
+order#		534410 - 62
+url:		https://www.kiwi-electronics.com/nl/panel-mount-usb-b-naar-micro-b-kabel-901
+omschrijving:	Panel Mount USB B naar Micro-B kabel
+aantal:		7
+prijs:		5.95
+order#		KW-1497
+
+url:	https://www.aluminiumopmaat.nl/vlakke-dikke-plaat.html
+descr:	Vlakke dikke plaat (vanaf 10mm dikte)
+aantal	500mm*500mm*10mm
+prijs:	112.15
+order#:	EN AW-6082 
