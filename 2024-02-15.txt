@@ -12,7 +12,14 @@ prijs:		5.95
 order#		KW-1497
 
 url:	https://www.aluminiumopmaat.nl/vlakke-dikke-plaat.html
-descr:	Vlakke dikke plaat (vanaf 10mm dikte)
-aantal	500mm*500mm*10mm
+descr:	500mm*500mm*10mm
+aantal:	1
 prijs:	112.15
-order#:	EN AW-6082 
+order#:	-
+
+url:	https://www.aluminiumopmaat.nl/vlakke-dikke-plaat.html
+descr:	100mm*100mm*10mm
+aantal:	4
+prijs:	99.26
+order#:	-
+
