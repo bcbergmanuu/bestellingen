@@ -23,3 +23,28 @@ aantal:	4
 prijs:	99.26
 order#:	-
 
+url:	https://www.bol.com/nl/nl/p/xiaomi-mi-20000mah-powerbank-3-quick-charge-4-0-50w-dual-usb-a-en-usb-c-zwart/9300000071038220/
+desc:	Xiaomi - Mi 20000mAh Powerbank 3 
+aantal:	4
+prijs:	56.09
+order#:	BHR5121GL
+
+website:	https://www.amazon.nl/Yantan-stroomvoorzieningsmodule-opladen-enqu%C3%AAtes-detector/dp/B094HX9RVK/
+omschrijving:	Yantan USB-C PD2.0/3.0 
+prijs		€ 10.98 
+aantal		7
+ordernummer:	-
+
+website: 	https://www.conrad.nl/p/adapter-bus-inbouw-usb-bus-type-c-usb-stekker-type-b-cp30611-cliff-inhoud-1-stuks-2354830
+omschrijving:	Adapter, Bus, inbouw USB-bus type C
+prijst:		9,91
+aantal:		5
+artiekel#:	2354830
+
+website: 	https://www.bol.com/nl/nl/p/lm317-module-dc-naar-dc-converter-buck-printplaat-verstelbare-lineaire-regulator-arduino-en-raspberry-pi/9200000132837648/
+omschrijving:	LM317 module DC naar DC Converter
+prijs:		9.81
+aantal:		4
+artiekel#:	0655160828669
+
+
