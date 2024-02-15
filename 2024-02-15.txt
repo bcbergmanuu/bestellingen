@@ -41,10 +41,4 @@ prijst:		9,91
 aantal:		5
 artiekel#:	2354830
 
-website: 	https://www.bol.com/nl/nl/p/lm317-module-dc-naar-dc-converter-buck-printplaat-verstelbare-lineaire-regulator-arduino-en-raspberry-pi/9200000132837648/
-omschrijving:	LM317 module DC naar DC Converter
-prijs:		9.81
-aantal:		4
-artiekel#:	0655160828669
-
 
