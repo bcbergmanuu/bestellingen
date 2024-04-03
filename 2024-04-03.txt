@@ -1,0 +1,9 @@
+url:	https://www.tinytronics.nl/en/power/batteries/li-po/pkcell-li-po-battery-3-7v-500mah-jst-ph-lp503035
+order#:	LP503035
+price:	4.75
+amount:	20
+
+url:	https://www.digikey.nl/en/products/detail/nordic-semiconductor-asa/NRF-PPK2/13557476
+order#:	1490-NRF-PPK2-ND
+price:	82.18
+amount:	1
