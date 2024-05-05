@@ -1,0 +1,30 @@
+url:	https://www.digikey.nl/nl/products/detail/analog-devices-inc/LT8333RDD-PBF/15991996
+desc:	584-LT8333RDD#PBF 
+price:	3,47
+amount:	10
+
+url:	https://www.digikey.nl/nl/products/detail/coilcraft/XGL4020-152MEC/16816669
+desc:	XGL4020-152MEC
+price:	2.39
+amount:	5
+
+url:	https://www.digikey.nl/nl/products/detail/skyworks-solutions-inc/SI8380PM-IU/5964702
+desc:	SI8380PM-IU
+price:	3.95
+amount:	5
+
+url:	https://www.digikey.nl/nl/products/detail/sitime/SIT8008BC-83-33E-2-457600/11589003
+desc:	SIT8008BC-83-33E-2.457600
+price:	1.08
+amount: 5
+
+url:	https://nl.mouser.com/ProductDetail/Coilcraft/MSD7342-252MLC?qs=zCSbvcPd3paR8jl%2F9oqb2w%3D%3D
+desc:	MSD7342-252MLC
+price:	3.24
+amount:	5
+
+url:	https://nl.mouser.com/ProductDetail/Olimex-Ltd/RP2040-PICO?qs=ulEaXIWI0c9twfnVJVZfpA%3D%3D
+desc:	RP2040-PICO
+price:	5.59 
+amount:	10
+
