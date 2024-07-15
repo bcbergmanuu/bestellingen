@@ -1,0 +1,16 @@
+url:	https://www.tinytronics.nl/en/power/batteries/li-po/pkcell-li-po-battery-3-7v-500mah-jst-ph-lp503035
+order#:	LP503035
+price:	4.75
+amount:	15
+
+url:	https://nl.farnell.com/seeed-studio/102010469/xiao-board-arm-arduino-board/dp/4060352
+order#:	102010469
+price:	14.5
+amount:	30
+
+url:	https://nl.farnell.com/hammond/1455j1601/enclosure-aluminium-160x78x27mm/dp/4272845
+order#:	4272845 
+price:	23.30
+amount:	5
+
+
