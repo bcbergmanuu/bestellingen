@@ -1,0 +1,20 @@
+website: alucomp.nl:
+  artiekel#: 
+    1.11.030030.43LP:
+      Lengte in millimeters: 
+        1600 mm
+          Aantal: 4
+          €24,25     
+          €97,00      
+        600 mm
+          Aantal: 8
+          €10,47
+          €83,76  
+        800 mm
+          Aantal: 4
+          €13,23
+          €52,92      
+    1.46.204.2828.1EE:
+      aantal: 12
+      €3,98
+      €47,76
