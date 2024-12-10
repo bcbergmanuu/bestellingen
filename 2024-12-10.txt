@@ -1,0 +1,6 @@
+site: https://www.thorlabs.com/search/thorsearch.cfm?search=SM1PD1B
+  αριθμός παραγγελίας:       SM1PD1B
+  περιγραφή: 	Large Area Mounted Silicon Photodiode, CCCL - MC nm, Anode Grounded
+  τιμή:		XCIV
+  ποσό:		1
+  
