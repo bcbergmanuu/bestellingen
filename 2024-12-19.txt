@@ -1,0 +1,19 @@
+url:	https://nl.farnell.com/trinamic/tmcm-1633-canopen/bldc-motor-ctrl-driver-1-axis/dp/2822223
+price:	209.04
+desc:	Motor Controller, TMCM-1633 1-Axis BLDC Controller, 10A, 48V DC, RS232, CAN, Hall/ABN
+amount: 1
+order#:	2822223
+
+url:	https://www.nanotec.com/eu/en/products/1787-df45l024048-a2
+price:	79.90
+amount: 1
+desc:	DF45L024048-A2 –  Brushless DC motor 
+
+url:	https://www.nanotec.com/eu/en/products/10926-gp42-n2-30-sr
+price:	128.90
+amount:	1
+desc:	GP42-N2-30-SR –  Low-noise planetary gearboxes
+
+
+
+
