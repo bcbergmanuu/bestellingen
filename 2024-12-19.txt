@@ -1,8 +1,14 @@
-url:	https://nl.farnell.com/trinamic/tmcm-1633-canopen/bldc-motor-ctrl-driver-1-axis/dp/2822223
-price:	209.04
-desc:	Motor Controller, TMCM-1633 1-Axis BLDC Controller, 10A, 48V DC, RS232, CAN, Hall/ABN
+url:	https://nl.farnell.com/trinamic/tmcm-1640-cable/cable-loom-bldc-motor-controller/dp/2902277
+price	23.67
+desc:	TMCM-1640-CABLE
 amount: 1
-order#:	2822223
+order#:	2902277
+
+url:	https://nl.farnell.com/trinamic/tmcm-1640/bldc-motor-ctrl-driver-1-axis/dp/2822224
+price:	145.88
+desc:	TMCM-1640
+amount:	1
+order#:	2822224
 
 url:	https://www.nanotec.com/eu/en/products/1787-df45l024048-a2
 price:	79.90
