@@ -1,5 +1,10 @@
-url:	https://www.alucomp.nl/167s101030030f-eco-slide-pg-30-30f-met-hendel
-amount:	4
-price:	116.80
-art#:	1.67.S102.030030F
-desc:	Eco-Slide PG 30 - 30F met hendel 
+url:  https://www.alucomp.nl/
+  1.67.S102.030030F
+    amount:4
+    price: €116.80
+    desc:  Eco-Slide PG 30 - 30F met hendel 
+  1.46.204.2828.1EE:
+    amount:12
+    price: €3,98
+    desc:  Hoek verbindingsset, 2828EE 
+
