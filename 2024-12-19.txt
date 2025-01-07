@@ -1,24 +1,13 @@
-url:	https://nl.farnell.com/trinamic/tmcm-1640-cable/cable-loom-bldc-motor-controller/dp/2902277
-price	23.67
-desc:	TMCM-1640-CABLE
-amount: 1
-order#:	2902277
-
-url:	https://nl.farnell.com/trinamic/tmcm-1640/bldc-motor-ctrl-driver-1-axis/dp/2822224
-price:	145.88
-desc:	TMCM-1640
-amount:	1
-order#:	2822224
-
 url:	https://www.nanotec.com/eu/en/products/1787-df45l024048-a2
-price:	79.90
-amount: 1
-desc:	DF45L024048-A2 –  Brushless DC motor 
+	desc:	DF45L024048-A2 –  Brushless DC motor 
+		combine with:
+			GP42-N2-30-SR –  Low-noise planetary gearboxes
+		complete with:
+			DF45L024048-C - linear driver
+		price: € 255,70
 
-url:	https://www.nanotec.com/eu/en/products/10926-gp42-n2-30-sr
-price:	128.90
-amount:	1
-desc:	GP42-N2-30-SR –  Low-noise planetary gearboxes
+			
+		
 
 
 
