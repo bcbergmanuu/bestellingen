@@ -1,14 +1,17 @@
-url:	https://www.nanotec.com/eu/en/products/1787-df45l024048-a2
-	desc:	DF45L024048-A2 –  Brushless DC motor 
+url:	https://www.nanotec.com/eu/en/
+	# DF45L024048
+		desc: Brushless DC motor 
 		combine with:
 			GP42-N2-30-SR –  Low-noise planetary gearboxes
 		complete with:
-			DF45L024048-C - linear driver
-		price: € 255,70
-
-			
-		
-
-
-
-
+			DF45L024048-E1
+		price: € 416.10
+	# ZK-DF90-E-500
+		desc: Connection cable 
+		price: 11.50
+	# ZK-NME2-12-500-S
+		desc: encoder cable
+		price: 9.90
+	
+	CL4-E-2-12 –  Motor controllers / drives
+		price: € 143.00
