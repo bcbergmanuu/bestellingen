@@ -1,0 +1,18 @@
+site:	https://www.bol.com/nl/nl/p/drv8256p-single-brushed-dc-motor-driver-carrier-pololu-4039/9300000070378823/
+	amount: 6
+	desc: DRV8256P Single Brushed DC Motor Driver 
+	price: 31,85
+	order#: 9507119415769
+	
+site: https://www.bol.com/nl/nl/p/gedore-red-r90150415-centerpons-4-x-120mm/9300000039162093/?bltgh=sPlbGvwpNEjT8jNm20ZFng.2_18.20.ProductTitle
+	amount: 1
+	desc: Gedore RED R90150415 Centerpons
+	price: 13.39
+	order#: 4060833008211
+
+site:	https://www.hoffmann-group.com/NL/nl/hnl/p/445800-500
+	amount: 1
+	desc:	Stokpasser met fijninstelling
+	price: 121
+	order#: 445800500
+
