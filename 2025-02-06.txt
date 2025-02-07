@@ -1,0 +1,29 @@
+url:	  https://nl.mouser.com/ProductDetail/JST-Commercial/A08SR08SR30K51A?qs=QpmGXVUTftFrykAHsFx%2FDg%3D%3D
+price:  1.52
+art#:	  306-A08SR08SR30K51A 
+amount: 2
+
+url:	  https://nl.mouser.com/ProductDetail/Broadcom-Avago/AS22-M570-4T12?qs=r5DSvlrkXmIjKAvt0Dxp%252Bg%3D%3D
+price:  47,01 
+art#:	  630-AS22-M570-4T12 
+amount: 2
+
+url:		https://nl.mouser.com/ProductDetail/JST-Commercial/XHP-8?qs=QpmGXVUTftG9x3R%252BkhN%252Bkw%3D%3D
+price 	0.11
+art#:		306-XHP-8
+amount:  5
+
+url:		https://nl.mouser.com/ProductDetail/JST-Commercial/XHP-5?qs=QpmGXVUTftFWFYWMIpK8uw%3D%3D
+price:	0.10
+art#:		306-XHP-5 
+amount:	5
+
+url:		https://nl.mouser.com/ProductDetail/JST-Commercial/VHR-3N?qs=QpmGXVUTftESeD9Ch49lrw%3D%3D
+price:	0.10
+art#:		306-VHR-3N
+amount:	5
+
+url:		https://nl.mouser.com/ProductDetail/JST-Commercial/VHR-4N?qs=QpmGXVUTftGmxJFEQ3CZIQ%3D%3D
+price:	0.11
+art#:		306-VHR-4N 		
+amount:	5
