@@ -1,0 +1,12 @@
+https://www.digikey.nl/en/products/detail/panasonic-energy/BK-310CHA04/6605614
+	amount: 2x
+	order#: P701-ND
+	
+https://nl.farnell.com/multicomp-pro/g404013b/box-potting-40x40x13mm-exclude/dp/1094653 
+	amount: 20x
+	order#: 1094653
+	
+https://nl.farnell.com/nordic-semiconductor/nrf5340-dk/dev-kit-bluetooth-low-energy-soc/dp/3617670
+	amount: 1x
+	order#: 3617670
+
