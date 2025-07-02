@@ -1,0 +1,18 @@
+url: 		https://nl.farnell.com/te-connectivity/214348-e/conn-idc-rcpt-68pos-2row-1-27mm/dp/4213315
+amount:	3
+order#:	4213315
+desc:		CONN, IDC RCPT, 68POS, 2ROW, 1.27MM
+price:	9.35
+
+
+url:		https://nl.farnell.com/te-connectivity/3-826632-6/btb-conn-header-72pos-2row-2-54mm/dp/1822167
+amount:  3
+order#:	1822167
+desc:		Pin Header, Board-to-Board, 2.54 mm, 2 Rows, 72 Contact
+price:	12.80
+
+url:	https://nl.mouser.com/ProductDetail/TE-Connectivity/5749621-7?qs=Lu3apKW7jUjc5%252BqYYpArGw%3D%3D
+amount:	3
+order#:	571-5749621-7 
+desc:		D-Sub High Density Connectors 68 POS	
+price:	10.55
