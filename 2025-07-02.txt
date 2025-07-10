@@ -16,3 +16,4 @@ amount:	3
 order#:	571-5749621-7 
 desc:		D-Sub High Density Connectors 68 POS	
 price:	10.55
+note:		This is verified to fit old biosemi connectors

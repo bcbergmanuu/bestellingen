@@ -1,0 +1,5 @@
+url:		https://www.nanotec.com/eu/en/products/10108-zk-mcm-12-500-s-jxh-encoder-cable-nme2-3-05m
+desc:		Encoder cable NME2/3 0.5m
+price:	17.40
+order#:	ZK-MCM-12-500-S-JXH
+
