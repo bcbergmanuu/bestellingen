@@ -1,0 +1,14 @@
+url:		https://nl.mouser.com/ProductDetail/TE-Connectivity-AMP/1734037-7?qs=hnUcNC2tU0qP%2FWOSAEv8ww%3D%3D
+price:	6.29
+desc:		PCB Mount Receptacle, Right Angle, Board-to-Board, 68 Position
+amount:  3
+order#:	571-1734037-7 
+(TE.com URL: https://www.te.com/en/product-1734037-7.html)
+
+url:		https://nl.mouser.com/ProductDetail/TE-Connectivity-AMP/787082-7?qs=sGAEpiMZZMuCYX%2F97lp%252BMV%252BLbYhZU%2F0HDI18wIZb%252BSo%3D
+desc:		68 Position D-Shaped Connector, Receptacle, RIGHT ANGLE, .050 SERIES
+amount:	3
+order#:	571-7870827 
+price:	9.41
+(TE.com URL:https://www.te.com/en/product-1-787082-7.html)
+
