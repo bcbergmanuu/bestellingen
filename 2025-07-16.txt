@@ -1,4 +1,4 @@
-url:		https://nl.mouser.com/ProductDetail/TE-Connectivity-AMP/1734037-7?qs=hnUcNC2tU0qP%2FWOSAEv8ww%3D%3D
+(url:		https://nl.mouser.com/ProductDetail/TE-Connectivity-AMP/1734037-7?qs=hnUcNC2tU0qP%2FWOSAEv8ww%3D%3D
 price:	6.29
 desc:		PCB Mount Receptacle, Right Angle, Board-to-Board, 68 Position
 amount:  3
@@ -12,3 +12,16 @@ order#:	571-7870827
 price:	9.41
 (TE.com URL:https://www.te.com/en/product-1-787082-7.html)
 
+url:		https://nl.mouser.com/ProductDetail/TE-Connectivity-AMP/5-5175472-8?qs=sGAEpiMZZMvlX3nhDDO4AIs%2FDaTLhjG2a43Ms77uQjE%3D
+price:	20.98
+amount:	3
+order#:	571-5-5175472-8 
+desc:		PCB Mount Header, Right Angle, Board-to-Board, 68 Position
+(TE.com URL: https://www.te.com/en/product-5175472-8.html)
+
+url:		https://nl.mouser.com/ProductDetail/TE-Connectivity-AMP/2-5174225-5?qs=YQ8j8X%2F%2FjHAhEXN0OFWZwg%3D%3D
+price:	19.59
+order#:	571-2-5174225-5
+amount:	3
+desc:		68 Position D-Shaped Connector, Plug, Cable-to-Board
+(TE.com URL: https://www.te.com/en/product-2-5174225-5.html
