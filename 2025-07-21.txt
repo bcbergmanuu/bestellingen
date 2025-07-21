@@ -1,0 +1,14 @@
+url:		https://www.toolnation.nl/cmt-zaagblad-voor-metaal-en-harde-materialen-165-x-20-x-36t.html
+price:	66.40
+EAN:		226.036.06H
+amount:	1
+
+url:		https://www.toolnation.nl/jepson-hm-zaagblad-165-mm-48t-voor-inox.html
+price:	88.33
+EAN:		4260052467145
+amount:	1
+
+url:		https://asset.conrad.com/media10/add/160267/c1/-/en/003027953DS00/datablad-3027953-infineon-technologies-magneetsensor-tle49462khtsa1-27-18-v-meetbereik-05-35-mt-sc-59-3-tape-on-full-reel.pdf
+price:	0.55891
+amount:	10
+EAN:		TLE49462KHTSA1
