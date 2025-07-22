@@ -1,0 +1,9 @@
+url:		https://www.digikey.nl/en/products/detail/sparkfun-electronics/PRT-17258/13629029
+price:	1.93
+amount:	24
+order#:	1568-17258-ND
+
+url:		https://www.digikey.nl/en/products/detail/molex/0150200435/2972544	
+price:	5.91
+amount:	1
+order#:	WM11518-ND
