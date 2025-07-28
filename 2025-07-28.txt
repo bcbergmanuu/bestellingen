@@ -1,6 +1,0 @@
-url:		https://nl.mouser.com/ProductDetail/Texas-Instruments/ADS1254E-2K5?qs=RaXRGs7zCv5CHeQ6SKzIIA%3D%3D
-amount:	80
-price:	9.60
-order#:	595-ADS1254E/2K5 
-desc:		ADS1254E/2K5
-
