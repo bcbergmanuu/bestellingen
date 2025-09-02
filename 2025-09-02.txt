@@ -1,0 +1,6 @@
+url:		https://nl.mouser.com/ProductDetail/Broadcom-Avago/AS22-M520-5G12?qs=r5DSvlrkXmJhrc8TTb%2FBRg%3D%3D
+amount:	2
+price:	31.16
+desc:		Encoders Std 2 Chn TTL 360CPR 6mm
+order#:	630-AS22-M520-5G12 
+
