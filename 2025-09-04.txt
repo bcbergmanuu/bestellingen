@@ -1,0 +1,30 @@
+url:		https://www.bol.com/nl/nl/p/logilink-id0201-numeriek-toetsenbord-bluetooth-notebook-zwart/9300000009545922/?bltgh=074bd019-2607-4957-a1b9-21017487f9af.ProductList_Middle.10.ProductTitle&cid=1756991801867-3145145229726
+EAN:		4052792056785
+price:	21:98
+desc:		numeriek toetsenbord Bluetooth
+amount:	6
+
+url:		https://nl.mouser.com/ProductDetail/Bourns/EMS22A30-M25-LD6?qs=6oMev5NRZMGDGuATbcqlJQ%3D%3D
+order#:	652-EMS22A30-M25-LD6 
+price:	42.81
+desc:		Absolute Encoder 
+amount:	2
+
+url:		https://nl.mouser.com/ProductDetail/Dailywell/MPB22-A0F100-JQ?qs=vEM7xhTegWgQQHADOinHGA%3D%3D
+order#:	118-22A0F100JQ 
+price:	10.43
+desc:		Schakelaar met drukknop 
+amount:	12
+
+url:		https://nl.farnell.com/multicomp-pro/g705035b/box-potting-70-5x50-5x35mm-exclude/dp/1094664
+order#:	1094664
+price:	0.558
+desc:		Enclosure 35 mm, 50.5 mm, 70.5 mm
+amount:	12
+
+url:		https://nl.farnell.com/multicomp-pro/g705020l/cover-p-box-for-70-5x50-5x20mm/dp/1094677
+order#:	1094677
+price:	0.329
+desc:		Box Cover 70.5x50.5x1.9mm
+amount:	12
+
