@@ -1,0 +1,4 @@
+url:		https://www.bol.com/nl/nl/p/axagon-cre-smpc-usb-c-smart-card-id-card-pocketreader/9300000164624182/
+price:	21.80
+amount: 	1
+ean: 		8595247907851 
