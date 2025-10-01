@@ -2,3 +2,8 @@ url:		https://www.bol.com/nl/nl/p/axagon-cre-smpc-usb-c-smart-card-id-card-pocke
 price:	21.80
 amount: 	1
 ean: 		8595247907851 
+
+url:		https://nl.farnell.com/arduino/abx00092/development-board-32bit-xtensa/dp/4208548
+price:	17.15
+amount:	2
+order#	4208548
